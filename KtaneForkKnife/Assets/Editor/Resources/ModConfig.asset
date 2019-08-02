@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: BecauseYes
+  title: 'Fork Knife: The Game'
+  author: Livio
+  description: "GET THE EPIC VICTORY ROYALE^!!!^^!!^\"!\xA7\xA7\"^!R\xA7!$\"\tEQ$\"W\xA7R\tT%ZU/TR)(QE\tWZ\"H(OT
+    \ T\n\n\nK like Sch\xFCtzengrabenvernichtungspanzerkraftwagen\n\nF like In the
+    jungle the (manual) might(y) (be available on ktane.timwi.de have fun searching)"
+  version: 69.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: 0594175c4e383224fa8abf715e62ece9, type: 3}
